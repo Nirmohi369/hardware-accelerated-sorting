@@ -1,0 +1,4 @@
+We met with professor Hang Liu to discuss about Vitis software. He guided us on which software to install.
+We completed setting up our environment to code, that is installed vitis. Also, learned VHDL and vitis bascis from link provided by Professor Hang Liu.
+This week we will be implementing our code in vitis software.
+Brad visited the lab to find if any FPGA is available or not. It turns out that Prof Hang Liu already gave the FPGAs to other class.

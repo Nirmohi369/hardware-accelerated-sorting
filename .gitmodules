@@ -1,0 +1,3 @@
+[submodule "vhdl"]
+	path = Source/vhdl
+	url = git@github.com:b-rad15/HardwareAcceleratedSortingVHDL.git

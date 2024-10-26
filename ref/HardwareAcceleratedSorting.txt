@@ -1,0 +1,7 @@
+FFT Algorithm
+Sorting
+
+VHDL software
+https://docs.xilinx.com/r/en-US/ug1393-vitis-application-acceleration/Getting-Started-with-Vitis
+
+
